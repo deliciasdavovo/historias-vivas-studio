@@ -1,0 +1,40 @@
+{
+  "id": "o-velho-e-a-morte",
+  "title": "O velho e a Morte",
+  "style": "Pavo Paper Style Cinema",
+  "script": "01 — O cansaço\nNarrador: Um velho lenhador estava tão cansado de carregar madeira que, certo dia, jogou tudo no chão.\n\n02 — O chamado\nLenhador: Não aguento mais! Que venha a Morte!\nMorte: Chamou?\n\n03 — A surpresa\nNarrador: Bom... ele não esperava ser atendido tão depressa.\nMorte: O que deseja?\n\n04 — O pedido\nLenhador: Será que a senhora poderia me ajudar a colocar essa lenha nas costas?",
+  "characters": [
+    {
+      "name": "Folha coletiva — K01 e K02",
+      "image": "",
+      "description": "K01 — Lenhador: silhueta pequena, arredondada e curvada, nariz bulboso, sobrancelhas e barba brancas volumosas, camisa creme, colete ocre, calças verde-oliva, botas marrons. Cerca de 1,50 m. Rabugento, expressivo e astuto. Voz idosa, aguda, nasal e resmungona.\nK02 — Morte: silhueta triangular muito alta (cerca de 2,60 m), rosto esquelético angular estilizado, manto preto azulado, mãos compridas, foice. Serena, cortês, paciente. Voz feminina baixa, serena, límpida e precisa.\nObjetos: trouxa de lenha amarrada com corda, pedra e foice. Paleta: ocre #C4A16B, verde-oliva #776B43, marfim #DDD0B5, azul profundo #34394A e preto azulado #202127. A folha coletiva foi gerada no chat; anexar a imagem ao projeto."
+    }
+  ],
+  "scenes": [
+    {
+      "title": "01 — O cansaço",
+      "duration": "9 segundos",
+      "image": "",
+      "prompt": "OBRIGATORIAMENTE, FALAS E NARRAÇÃO EM PORTUGUÊS DO BRASIL.\n\nCrie um vídeo de 9 segundos, vertical 9:16.\n\nESTILO: longa-metragem de animação artesanal cinematográfica em papel recortado, cartolina pigmentada fosca, fibras visíveis, bordas orgânicas, personagens adultos expressivos e cenários em multiplano com sombras delicadas.\n\nPERSONAGENS E REFERÊNCIAS: K01 — Lenhador, conforme a folha coletiva anexada de O velho e a Morte. Preserve rostos, proporções e figurinos. A folha é referência de identidade, não composição da cena.\n\nCENÁRIO: caminho sinuoso em uma floresta de árvores altas, folhas verde-oliva e luz dourada oblíqua de fim de tarde.\n\nAÇÃO E FOTOGRAFIA:\n0–3s: plano geral lateral. O velho atravessa a floresta curvado sob uma enorme trouxa de lenha.\n3–6s: seus passos ficam cada vez mais pesados. Ele tropeça ligeiramente e recupera o equilíbrio.\n6–9s: irritado e exausto, joga a lenha no chão e senta sobre uma pedra.\n\nNARRAÇÃO EM OFF:\n0–9s — Narrador invisível, voz masculina madura, grave, aveludada, levemente rouca e calorosa: “Um velho lenhador estava tão cansado de carregar madeira que, certo dia, jogou tudo no chão.”\n\nSOM: passos pesados, pássaros, madeira rangendo e impacto dos galhos no chão.\n\nQUADRO FINAL: Velho sentado à esquerda, trouxa de lenha no centro e caminho vazio à direita."
+    },
+    {
+      "title": "02 — O chamado",
+      "duration": "7 segundos",
+      "image": "",
+      "prompt": "OBRIGATORIAMENTE, FALAS E NARRAÇÃO EM PORTUGUÊS DO BRASIL.\n\nCrie um vídeo de 7 segundos, vertical 9:16.\n\nESTILO: longa-metragem de animação artesanal cinematográfica em papel recortado, cartolina pigmentada fosca, fibras visíveis, bordas orgânicas, personagens adultos expressivos e cenários em multiplano com sombras delicadas.\n\nPERSONAGENS E REFERÊNCIAS: K01 — Lenhador e K02 — Morte, conforme a folha coletiva anexada de O velho e a Morte. Preserve rostos, proporções e figurinos. A folha é referência de identidade, não composição da cena.\n\nCENÁRIO: mesmo caminho na floresta, pedra à esquerda e trouxa de lenha no chão.\n\nAÇÃO E FOTOGRAFIA:\n0–3s: sentado sobre a pedra, o velho ergue os braços e reclama dramaticamente.\n3–5s: o vento cessa. Uma sombra muito comprida atravessa o chão. A câmera revela a Morte surgindo atrás dele.\n5–7s: a Morte inclina educadamente a cabeça. O velho fica imóvel.\n\nDIÁLOGOS:\n0–3s — Lenhador, voz idosa, aguda, nasal e resmungona: “Não aguento mais! Que venha a Morte!”\n5–7s — Morte, voz feminina baixa, serena, límpida e precisa: “Chamou?”\n\nSOM: folhas ao vento, seguidas de silêncio repentino e um discreto toque grave de cordas.\n\nQUADRO FINAL: A Morte permanece atrás do lenhador, que começa lentamente a virar a cabeça."
+    },
+    {
+      "title": "03 — A surpresa",
+      "duration": "8 segundos",
+      "image": "",
+      "prompt": "OBRIGATORIAMENTE, FALAS E NARRAÇÃO EM PORTUGUÊS DO BRASIL.\n\nCrie um vídeo de 8 segundos, vertical 9:16.\n\nESTILO: longa-metragem de animação artesanal cinematográfica em papel recortado, cartolina pigmentada fosca, fibras visíveis, bordas orgânicas, personagens adultos expressivos e cenários em multiplano com sombras delicadas.\n\nPERSONAGENS E REFERÊNCIAS: K01 — Lenhador e K02 — Morte, conforme a folha coletiva anexada de O velho e a Morte. Preserve rostos, proporções e figurinos. A folha é referência de identidade, não composição da cena.\n\nCENÁRIO: mesmo caminho na floresta, com sombras azuladas contrastando com a iluminação dourada entre as árvores.\n\nAÇÃO E FOTOGRAFIA:\n0–3s: plano de conjunto mostrando a enorme diferença de altura entre os personagens. O velho vira a cabeça, arregala os olhos e se levanta assustado.\n3–5s: ele ajeita nervosamente o casaco, tentando recuperar a dignidade.\n5–8s: a Morte aguarda pacientemente e estende uma das mãos em gesto de cortesia.\n\nNARRAÇÃO EM OFF:\n0–5s — Narrador invisível, voz masculina madura, grave, aveludada, levemente rouca e calorosa, com ironia discreta: “Bom... ele não esperava ser atendido tão depressa.”\n\nDIÁLOGOS:\n5–8s — Morte, voz feminina baixa, serena, límpida e precisa: “O que deseja?”\n\nSOM: tecido de papel se movimentando, respiração nervosa e ambiente silencioso da floresta.\n\nQUADRO FINAL: O velho olha para a trouxa de lenha caída entre os dois."
+    },
+    {
+      "title": "04 — O pedido",
+      "duration": "8 segundos",
+      "image": "",
+      "prompt": "OBRIGATORIAMENTE, FALAS E NARRAÇÃO EM PORTUGUÊS DO BRASIL.\n\nCrie um vídeo de 8 segundos, vertical 9:16.\n\nESTILO: longa-metragem de animação artesanal cinematográfica em papel recortado, cartolina pigmentada fosca, fibras visíveis, bordas orgânicas, personagens adultos expressivos e cenários em multiplano com sombras delicadas.\n\nPERSONAGENS E REFERÊNCIAS: K01 — Lenhador e K02 — Morte, conforme a folha coletiva anexada de O velho e a Morte. Preserve rostos, proporções e figurinos. A folha é referência de identidade, não composição da cena.\n\nCENÁRIO: mesmo caminho na floresta, trouxa de lenha entre os personagens.\n\nAÇÃO E FOTOGRAFIA:\n0–2s: o velho olha para a lenha e depois para a Morte. Abre um sorriso constrangido.\n2–6s: aponta educadamente para a trouxa enquanto faz seu pedido.\n6–8s: a Morte olha lentamente para a lenha, depois para o velho, com uma expressão de absoluta perplexidade. O velho mantém seu sorriso inocente.\n\nDIÁLOGOS:\n0–6s — Lenhador, voz idosa, aguda, nasal e resmungona, agora excessivamente educado: “Será que a senhora poderia me ajudar a colocar essa lenha nas costas?”\n\nSOM: leve vento entre as árvores e uma pausa cômica após a fala.\n\nQUADRO FINAL: Composição aberta dos dois personagens em silêncio, separados pela trouxa de lenha. Corte seco para preto."
+    }
+  ],
+  "cover": ""
+}
